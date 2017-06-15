@@ -12,4 +12,5 @@
 ### 삼짱
 + 강호성
 * 삼각김밥
+![http://cfile22.uf.tistory.com/image/2119DA4056001CC62CFAE1](/path/to/강호성.jpg)
 <hr/>
