@@ -1,7 +1,8 @@
 # intro
 ## 강호성
 ### 쌀벌레 
-![강호성](http://cfile22.uf.tistory.com/image/2119DA4056001CC62CFAE1)
+![강호성](http://cfile22.uf.tistory.com/image/2119DA4056001CC62CFAE1) 
+### [쌀벌레를 조심하세요](https://youtu.be/zhMtIXhls_8)
 * 강호성
 * **김기태**
 * 비둘기
