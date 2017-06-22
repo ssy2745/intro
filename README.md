@@ -1,6 +1,7 @@
 # intro
 ## 강호성
-### 쌀벌레
+### 쌀벌레 
+![강호성](http://cfile22.uf.tistory.com/image/2119DA4056001CC62CFAE1)
 * 강호성
 * **김기태**
 * 비둘기
